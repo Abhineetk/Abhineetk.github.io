@@ -33,7 +33,6 @@ experience:
         
         * DevOps
         * Jira
-                
         
   - title: Project Associate
     company: SEDL
@@ -44,5 +43,5 @@ experience:
     description: |2-
         Skills: 
         * Project management
-        * Mechanical equipments installation
+        * Mechanical equipment installation
 ---
