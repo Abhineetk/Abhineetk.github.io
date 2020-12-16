@@ -21,6 +21,7 @@ interests:
 - Machine Learning
 - Data Science
 - NLP
+- Deep Learning
 
 
 # Education to show in About widget
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'abhineet.kumar94@gmail.com'
+  link: 'mailto:abhineet.kumar94@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/abhineet94
@@ -70,5 +71,3 @@ highlight_name: false
 I am a Mechanical graduate transitioned successfully in the field of IT with sheer will and determination, currently working as a DevOps engineer at CAPGEMINI. Freshly up skilling in the field of Data Science with plenty of projects to showcase relevant skills.
 
 I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about learning technologies such as Deep Learning, Deep Learning and Artificial Intelligence.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
