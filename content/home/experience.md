@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-#subtitle:
+subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,25 +23,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: 'CEO'
-    company: 'GenCoin'
-    company_url: ''
-    location: 'California'
-    date_start: '2017-01-01'
+  - title: 'Sr Software Analyst'
+    company: 'CAPGEMINI'
+    company_url: 'https://www.capgemini.com/in-en/'
+    location: 'Mumbai'
+    date_start: '2019-05-17'
     date_end: ''
     description: |2-
     
-        Responsibilities include:
+        Skills:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * DevOps
+        * Jira
         
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+  - title: 'Project Associate'
+    company: 'SEDL'
+    company_url: 'https://www.sprayengineering.com/'
+    location: 'Chandigarh'
+    date_start: '2017-08-16'
+    date_end: '2019-01-08'
+    description: |2-
+    
+        Skills:
+        
+        * Project management
+        * Mechanical equipment installation
 ---
