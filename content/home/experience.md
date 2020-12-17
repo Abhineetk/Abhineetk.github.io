@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'Sr Software Analyst'
-    company: CAPGEMINI
+    company: 'CAPGEMINI'
     company_url: 'https://www.capgemini.com/in-en/'
-    location: Mumbai
+    location: 'Mumbai'
     date_start: '2019-05-17'
     date_end: ''
     description: |2-
@@ -35,9 +35,9 @@ experience:
         * Jira
         
   - title: 'Project Associate'
-    company: SEDL
+    company: 'SEDL'
     company_url: 'https://www.sprayengineering.com/'
-    location: Chandigarh
+    location: 'Chandigarh'
     date_start: '2017-08-16'
     date_end: '2019-01-08'
     description: |2-
