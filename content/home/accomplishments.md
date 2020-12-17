@@ -23,57 +23,57 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://github.com/Abhineetk/Certificates/blob/master/182591_139541.pdf
-  date_end: "01-01-2020"
-  date_start: "31-12-2020"
+- certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/182591_139541.pdf'
+  date_end: "2020-01-01"
+  date_start: "2020-12-31"
   description: ""
   organization: Capgemini
-  organization_url: https://www.capgemini.com
-  title: Received 'star' for outstanding performance and lasting contribution in Jan-Dec 2020.
+  organization_url: 'https://www.capgemini.com'
+  title: Received star for outstanding performance and lasting contribution in Jan-Dec 2020.
   url: ""
   
 - certificate_url:
   date_end: ""
-  date_start: "01-07-2020"
-  description: 
+  date_start: "2020-07-01"
+  description: ""
   organization: Capgemini
-  organization_url: https://www.capgemini.com
+  organization_url: 'https://www.capgemini.com'
   title: First Start Rating recipient(06/2019-07-2020)
-  url: 
+  url: ""
   
-- certificate_url: https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf
+- certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf'
   date_end: ""
-  date_start: "2017-07-01"
+  date_start: "01-07-2017"
   description: "10/2020"
   organization: Coursera
-  organization_url: https://www.coursera.org/
+  organization_url: 'https://www.coursera.org/'
   title: IBM Machine Learning with Python
   url: ""
   
-- certificate_url: https://github.com/Abhineetk/Certificates/blob/master/Programming%20for%20Everybody.pdf
+- certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Programming%20for%20Everybody.pdf'
   date_end: ""
   date_start: ""
-  description: "08/2020"
+  description: "2020/08"
   organization: Coursera
-  organization_url: https://www.coursera.org/
+  organization_url: 'https://www.coursera.org/'
   title: Programming For Everybody(Getting Started with Python)
   url: ""
   
-- certificate_url: https://github.com/Abhineetk/Certificates/blob/master/Python%20Data%20Structures.pdf
+- certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Python%20Data%20Structures.pdf'
   date_end: ""
   date_start: ""
-  description: "08/2020"
+  description: "2020/08"
   organization: Coursera
-  organization_url: https://www.coursera.org/
+  organization_url: 'https://www.coursera.org/'
   title: Python Data Structures
   url: ""
   
-- certificate_url: https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf
+- certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf'
   date_end: ""
   date_start: ""
-  description: "12/2020"
+  description: "2020/12"
   organization: Coursera
-  organization_url: https://www.coursera.org/
+  organization_url: 'https://www.coursera.org/'
   title: Mathematics for Machine Learning: Linear Algebra
   url: ""
 ---
