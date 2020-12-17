@@ -68,7 +68,7 @@ item:
     date_start: "2020-12-12"
     description: ""
     organization: Coursera
-    organization_url: 'https://www.coursera.org/'
+    organization_url:  'https://www.coursera.org/'
     title: Mathematics for Machine Learning: Linear Algebra
     url: ""
     
