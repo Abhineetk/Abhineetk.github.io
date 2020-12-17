@@ -41,7 +41,8 @@ experience:
     date_start: '2017-08-16'
     date_end: '2019-01-08'
     description: |2-
-        Skills: 
+        Skills:
+        
         * Project management
         * Mechanical equipment installation
 ---
