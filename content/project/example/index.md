@@ -1,12 +1,12 @@
 ---
-title: Flight Price Prediction Challenge
+title: Machine Learning Projects
 summary: 
 tags:
-- Machine Learning
+- All
 date: "2020-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Abhineetk/Employability_tests"
+external_link: "https://github.com/Abhineetk"
 
 #image:
  # caption: Photo by rawpixel on Unsplash
@@ -14,4 +14,4 @@ external_link: "https://github.com/Abhineetk/Employability_tests"
 
 
 ---
-
+kindly visit my Github profile to have a look at my projects from various industry domains like insurance, health care, tourism, etc.
