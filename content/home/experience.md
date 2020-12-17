@@ -29,6 +29,7 @@ experience:
     date_start: '2019-05-17'
     date_end: ''
     description: |2-
+    
         Skills:
         
         * DevOps
@@ -41,6 +42,7 @@ experience:
     date_start: '2017-08-16'
     date_end: '2019-01-08'
     description: |2-
+    
         Skills:
         
         * Project management
