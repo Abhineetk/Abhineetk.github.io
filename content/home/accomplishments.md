@@ -65,10 +65,10 @@ item:
     url: ""  
   - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf'
     date_end: ""
-    date_start: "2020-12-12"
+    date_start: "2020-12-11"
     description: ""
     organization: Coursera
-    organization_url:  'https://www.coursera.org/'
+    organization_url: 'https://www.coursera.org/'
     title: Mathematics for Machine Learning: Linear Algebra
     url: ""
     
