@@ -31,7 +31,7 @@ item:
   organization_url: 'https://www.capgemini.com'
   title: Received star for outstanding performance and lasting contribution in Jan-Dec 2020.
   url: ""  
-- certificate_url:''
+- certificate_url: ''
   date_end: "2020-07-01"
   date_start: "2019-06-01"
   description: ""
