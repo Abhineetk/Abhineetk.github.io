@@ -33,12 +33,12 @@ item:
   url: ""
   
 - certificate_url:''
-  date_end: ""
-  date_start: "2020-07-01"
+  date_end: "2020-07-01"
+  date_start: "2019-06-01"
   description: ""
   organization: Capgemini
   organization_url: 'https://www.capgemini.com'
-  title: First Start Rating recipient(06/2019-07-2020)
+  title: First Start Rating recipient
   url: ""
   
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf'
