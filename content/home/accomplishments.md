@@ -75,7 +75,7 @@ item:
     date_end: ""
     date_start: "2020-09-17"
     description: ""
-    organization: Coursera/IBM
+    organization: IBM
     organization_url: 'https://www.coursera.org/'
     title: What is Data Sciene
     url: ""   
