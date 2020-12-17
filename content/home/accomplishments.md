@@ -71,7 +71,7 @@ item:
     organization_url: 'https://www.coursera.org/'
     title: Mathematics for Machine Learning Linear Algebra
     url: ""
- - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/What%20is%20Data%20Science.pdf'
+  - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/What%20is%20Data%20Science.pdf'
     date_end: ""
     date_start: "2020-09-17"
     description: ""
