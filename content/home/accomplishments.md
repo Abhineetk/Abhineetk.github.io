@@ -63,5 +63,13 @@ item:
     organization_url: 'https://www.coursera.org/'
     title: Python Data Structures
     url: ""  
-  
+  - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf'
+    date_end: ""
+    date_start: "2020-12-12"
+    description: ""
+    organization: Coursera
+    organization_url: 'https://www.coursera.org/'
+    title: Mathematics for Machine Learning: Linear Algebra
+    url: ""
+    
 ---
