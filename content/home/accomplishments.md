@@ -32,7 +32,7 @@ item:
   title: Received star for outstanding performance and lasting contribution in Jan-Dec 2020.
   url: ""
   
-- certificate_url:
+- certificate_url:''
   date_end: ""
   date_start: "2020-07-01"
   description: ""
@@ -43,8 +43,8 @@ item:
   
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf'
   date_end: ""
-  date_start: "01-07-2017"
-  description: "10/2020"
+  date_start: "10/2020"
+  description: ""
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: IBM Machine Learning with Python
@@ -52,8 +52,8 @@ item:
   
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Programming%20for%20Everybody.pdf'
   date_end: ""
-  date_start: ""
-  description: "2020/08"
+  date_start: "2020/08"
+  description: ""
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: Programming For Everybody(Getting Started with Python)
@@ -61,8 +61,8 @@ item:
   
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Python%20Data%20Structures.pdf'
   date_end: ""
-  date_start: ""
-  description: "2020/08"
+  date_start: "2020/08"
+  description: ""
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: Python Data Structures
@@ -70,10 +70,10 @@ item:
   
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf'
   date_end: ""
-  date_start: ""
-  description: "2020/12"
+  date_start: "2020/12"
+  description: ""
   organization: Coursera
-  organization_url: 'https://www.coursera.org/'
+  organization_url: ''
   title: Mathematics for Machine Learning: Linear Algebra
   url: ""
 ---
