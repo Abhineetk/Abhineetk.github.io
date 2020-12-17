@@ -30,8 +30,7 @@ item:
   organization: Capgemini
   organization_url: 'https://www.capgemini.com'
   title: Received star for outstanding performance and lasting contribution in Jan-Dec 2020.
-  url: ""
-  
+  url: ""  
 - certificate_url:''
   date_end: "2020-07-01"
   date_start: "2019-06-01"
@@ -39,8 +38,7 @@ item:
   organization: Capgemini
   organization_url: 'https://www.capgemini.com'
   title: First Start Rating recipient
-  url: ""
-  
+  url: ""  
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf'
   date_end: ""
   date_start: "10/2020"
@@ -48,8 +46,7 @@ item:
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: IBM Machine Learning with Python
-  url: ""
-  
+  url: ""  
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Programming%20for%20Everybody.pdf'
   date_end: ""
   date_start: "2020/08"
@@ -57,8 +54,7 @@ item:
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: Programming For Everybody(Getting Started with Python)
-  url: ""
-  
+  url: ""  
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Python%20Data%20Structures.pdf'
   date_end: ""
   date_start: "2020/08"
@@ -66,8 +62,7 @@ item:
   organization: Coursera
   organization_url: 'https://www.coursera.org/'
   title: Python Data Structures
-  url: ""
-  
+  url: ""  
 - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Maths_DS.pdf'
   date_end: ""
   date_start: "2020/12"
