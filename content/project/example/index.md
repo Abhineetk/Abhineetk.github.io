@@ -12,6 +12,8 @@ external_link: "https://github.com/Abhineetk/Employability_tests"
  # caption: Photo by rawpixel on Unsplash
   #focal_point: Smart
 
+
+---
 title: Advertisement Success Prediction
 summary: 
 tags:
@@ -24,6 +26,4 @@ external_link: "https://github.com/Abhineetk/Employability_test_2"
 #image:
  # caption: Photo by rawpixel on Unsplash
   #focal_point: Smart
-
 ---
-
