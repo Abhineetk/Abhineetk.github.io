@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+#subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,7 +29,7 @@ experience:
     location: 'California'
     date_start: '2017-01-01'
     date_end: ''
-    description:  |2-
+    description: |2-
     
         Responsibilities include:
         
