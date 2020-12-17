@@ -21,30 +21,26 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: 'Sr Software Analyst'
-    company: 'CAPGEMINI'
-    company_url: 'https://www.capgemini.com/in-en/'
-    location: 'Mumbai'
-    date_start: '2019-05-17'
+  - title: 'CEO'
+    company: 'GenCoin'
+    company_url: ''
+    location: 'California'
+    date_start: '2017-01-01'
     date_end: ''
-    description: |2-
-    
-        Skills:
+    description: >-
+        Responsibilities include:
         
-        * DevOps
-        * Jira
+        * Analysing
+        * Modelling
+        * Deploying
         
-  - title: 'Project Associate'
-    company: 'SEDL'
-    company_url: 'https://www.sprayengineering.com/'
-    location: 'Chandigarh'
-    date_start: '2017-08-16'
-    date_end: '2019-01-08'
-    description: |2-
-    
-        Skills:
-        
-        * Project management
-        * Mechanical equipment installation
+  - title: 'Professor'
+    company: 'University X'
+    company_url: ''
+    location: 'California'
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: 'Taught electronic engineering and researched semiconductor physics.'
 ---
