@@ -41,7 +41,7 @@ item:
     url: ""  
   - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/MachineLearning_python_ibm%20(1).pdf'
     date_end: ""
-    date_start: "10/2020"
+    date_start: "2020-10-30"
     description: ""
     organization: Coursera
     organization_url: 'https://www.coursera.org/'
@@ -49,7 +49,7 @@ item:
     url: ""  
   - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Programming%20for%20Everybody.pdf'
     date_end: ""
-    date_start: "2020/08"
+    date_start: "2020-08-08"
     description: ""
     organization: Coursera
     organization_url: 'https://www.coursera.org/'
@@ -57,7 +57,7 @@ item:
     url: ""  
   - certificate_url: 'https://github.com/Abhineetk/Certificates/blob/master/Python%20Data%20Structures.pdf'
     date_end: ""
-    date_start: "2020/08"
+    date_start: "2020-08-09"
     description: ""
     organization: Coursera
     organization_url: 'https://www.coursera.org/'
