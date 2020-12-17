@@ -69,7 +69,7 @@ item:
     description: ""
     organization: Coursera
     organization_url: 'https://www.coursera.org/'
-    title: Mathematics for Machine Learning: Linear Algebra
+    title: Mathematics for Machine Learning Linear Algebra
     url: ""
     
 ---
