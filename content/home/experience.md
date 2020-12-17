@@ -26,7 +26,7 @@ experience:
     company: CAPGEMINI
     company_url: 'https://www.capgemini.com/in-en/'
     location: Mumbai
-    date_start: '17-05-2019'
+    date_start: '2019-05-17'
     date_end: ''
     description: |2-
         Skills:
@@ -38,8 +38,8 @@ experience:
     company: SEDL
     company_url: 'https://www.sprayengineering.com/'
     location: Chandigarh
-    date_start: '16-08-2017'
-    date_end: '08-01-2019'
+    date_start: '2017-08-16'
+    date_end: '2019-01-08'
     description: |2-
         Skills: 
         * Project management
