@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Sr Software Analyst
+  - title: 'Sr Software Analyst'
     company: CAPGEMINI
     company_url: 'https://www.capgemini.com/in-en/'
     location: Mumbai
@@ -34,7 +34,7 @@ experience:
         * DevOps
         * Jira
         
-  - title: Project Associate
+  - title: 'Project Associate'
     company: SEDL
     company_url: 'https://www.sprayengineering.com/'
     location: Chandigarh
