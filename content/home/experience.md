@@ -23,6 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+
+  - title: 'Full Stack Data Scientist Intern'
+    company: 'PixiuAI'
+    company_url: 'https://pixiu.co.in/'
+    location: 'Bengaluru'
+    date_start: '2020-11-01'
+    date_end: ''
+    description: |2-
+        
+        Actively upskilling my self with this Part time Job at PixiuAI
+        
+        Skills:        
+        * Machine Learning
+        * NLP
+        * Data Science
+        * Data Analyis
+        
+        
+        
   - title: 'Sr Software Analyst'
     company: 'CAPGEMINI'
     company_url: 'https://www.capgemini.com/in-en/'
@@ -31,10 +50,13 @@ experience:
     date_end: ''
     description: |2-
     
-        Skills:
-        
+        Skills:        
         * DevOps
         * Jira
+        * Confluence
+        * Bamboo
+        * Bitbucket
+        
         
   - title: 'Project Associate'
     company: 'SEDL'
@@ -45,7 +67,7 @@ experience:
     description: |2-
     
         Skills:
-        
+        * Mechanical eqiupment Engineering
         * Project management
-        * Mechanical equipment installation
+        * Mechanical installation
 ---
