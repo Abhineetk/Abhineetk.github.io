@@ -38,7 +38,7 @@ experience:
         * Machine Learning
         * NLP
         * Data Science
-        * Data Analyis
+        * Data Analysis
         
         
         
